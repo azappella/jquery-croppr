@@ -1,7 +1,7 @@
 Description
 ===========
 Easy to use jQuery plugin for zoom & pan image cropping.
-This plugin is a complete rewrite of http://www.tmatthew.net/jwindowcrop
+This plugin is a rewrite of https://github.com/adriengibrat/jQuery-crop which is itself a complete rewrite of http://www.tmatthew.net/jwindowcrop.
 
 Demo
 ====
