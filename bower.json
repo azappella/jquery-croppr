@@ -4,7 +4,6 @@
   "version": "0.1.0",
   "homepage": "https://github.com/azappella/jquery-croppr",
   "authors": [
-    "Adrien Gibrat <adrien.gibrat@gmail.com>",
     "Andrew Zappella <andrew.zappella@gmail.com>"
   ],
   "description": "jQuery plugin for cropping images.",
